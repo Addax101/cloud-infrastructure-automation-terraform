@@ -1,0 +1,21 @@
+cloud-infrastructure-automation-terraform/
+├── main.tf
+├── variables.tf
+├── output.tf
+├── terraform.tfvars
+├── examples/
+│   ├── vm/
+│   │   ├── main.tf
+│   │   ├── variables.tf
+│   │   └── output.tf
+│   ├── lb/
+│   │   ├── main.tf
+│   │   ├── variables.tf
+│   │   └── output.tf
+│   └── db/
+│       ├── main.tf
+│       ├── variables.tf
+│       └── output.tf
+├── README.md
+├── LICENSE
+└── .gitignore
