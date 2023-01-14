@@ -19,3 +19,14 @@ cloud-infrastructure-automation-terraform/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
+
+
+
+Explainations 
+The main.tf, variables.tf, output.tf are the terraform configuration files where you will define your cloud infrastructure.
+The terraform.tfvars file contains your cloud provider's credentials.
+The examples/ directory contains different examples of how to use Terraform to automate the provisioning of different types of infrastructure, like virtual machines, load balancer and databases.
+The README.md file contains the documentation for the project.
+The LICENSE file contains the licensing information for the project.
+The .gitignore file is used to ignore files that should not be tracked by Git.
